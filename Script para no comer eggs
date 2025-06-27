@@ -2,6 +2,7 @@
 local scripts = {
     "https://raw.githubusercontent.com/PheonixHub/No-comer-eggs/refs/heads/main/No%20comer%20eggs",
     "https://raw.githubusercontent.com/PheonixHub/Anti-volar/refs/heads/main/Anti%20volar",
+    "https://raw.githubusercontent.com/PheonixHub/Anti-lag/refs/heads/main/Anti%20lag",
     "https://raw.githubusercontent.com/PheonixHub/Auto-egg-kill/refs/heads/main/Kill%20egg",}
 
 for _, url in ipairs(scripts) do
